@@ -1,0 +1,55 @@
+body{
+    background: -webkit-linear-gradient(right, #270082, #DA0037);}
+
+    .enterDiv{
+        background-color: white;
+        width: 800px;
+        margin-left: 400px;
+        margin-top: 70px;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: #DFDFDF;
+        /* box-shadow: 5px 10px 18px #888888; */
+        padding: 50px;
+      }
+      #heading{
+        font-size: 40px;
+        margin-bottom: 20px;
+        color: red;
+      }
+      
+      #headingTop{
+        font-size: 40px;
+        padding-top: 100px;
+        margin-left: 570px;
+        font-weight: bold;
+        color: white;
+      }
+      .showDiv{
+        background-color: white;
+        width: 800px;
+        margin-left: 400px;
+        margin-top: 70px;
+        border-radius: 10px;
+        /* box-shadow: 5px 10px 18px #888888; */
+        border-style: solid;
+        font-weight: bold;
+        color: black;
+        border-color: #DFDFDF;
+        padding: 50px;
+      }
+      .companystyle{
+        background-color: #270082;
+        color: white;
+        border-radius: 5px;
+        padding: 5px;
+      }
+      .positionstyle{
+        background-color: #FF4C29;
+        color: white;
+        border-radius: 5px;
+        padding: 5px;
+      }
+      .positionhead{
+        margin-left: 20px;
+      }
